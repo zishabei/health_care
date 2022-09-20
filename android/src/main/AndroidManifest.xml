@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="jp.co.felicapocketmk.karadalive_flutter_plugin">
+    <queries>
+        <!-- googlefit -->
+        <package android:name="com.google.android.apps.fitness" />
+    </queries>
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+</manifest>
